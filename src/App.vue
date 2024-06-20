@@ -13,4 +13,7 @@ onHide(() => {
 </script>
 <style lang="scss">
 @import 'vk-uview-ui/index.scss';
+uni-page-body {
+  height: 100%;
+}
 </style>
